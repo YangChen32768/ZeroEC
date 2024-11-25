@@ -1,5 +1,5 @@
-# ZeroC/ZeroEC
-**ZeroEC** is a training-free error correction system powered by large language models (LLMs). This repository contains the source code for the paper "ZeroEC: A Zero-Training Error Correction System via Large Language Models [Scalable Data Science]".
+# ZeroEC
+**ZeroEC** is a training-free error correction system powered by large language models (LLMs). This repository contains the source code for the paper "ZeroEC: A Zero-Training Error Correction System via Large Language Models".
 ## Getting Started
 
 ### Installation
