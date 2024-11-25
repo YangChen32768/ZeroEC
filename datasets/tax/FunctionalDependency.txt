@@ -1,0 +1,6 @@
+{
+  "city": ["zip"],
+  "state": ["zip"],
+  "gender": ["f_name"],
+  "state": ["zip","area_code"]
+}

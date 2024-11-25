@@ -1,0 +1,42 @@
+[
+	{
+		"Dirty Tuple": {"index":"2","id":"498345","article_title":"Ebola Virus GP Gene Polyadenylation Versus RNA Editing.","article_language":"ENG","journal_title":"The Journal of infectious diseases","jounral_abbreviation":"J. Infect. Dis.","journal_issn":"1537-6613","article_jvolumn":"null","article_jissue":"null","article_jcreated_at":"4\/2\/15","article_pagination":"null","author_list":"{\"Valentina A Volchkova\",\"Jaroslav Vorac\",\"Philip Lawrence\",\"Laurie Repiquet-Paire\",\"Viktor E Volchkov\"}"},
+		"Erroneous Value": {"article_jissue": "null"},
+		"correction":  {"article_jissue": "-1"}
+	},
+	{
+		"Dirty Tuple": {"index":"2","id":"498345","article_title":"Ebola Virus GP Gene Polyadenylation Versus RNA Editing.","article_language":"ENG","journal_title":"The Journal of infectious diseases","jounral_abbreviation":"J. Infect. Dis.","journal_issn":"1537-6613","article_jvolumn":"null","article_jissue":"null","article_jcreated_at":"4\/2\/15","article_pagination":"null","author_list":"{\"Valentina A Volchkova\",\"Jaroslav Vorac\",\"Philip Lawrence\",\"Laurie Repiquet-Paire\",\"Viktor E Volchkov\"}"},
+		"Erroneous Value": {"article_jvolumn": "null"},
+		"correction": {"article_jvolumn": "-1"}
+	},
+	{
+		"Dirty Tuple": {"index":"2","id":"498345","article_title":"Ebola Virus GP Gene Polyadenylation Versus RNA Editing.","article_language":"ENG","journal_title":"The Journal of infectious diseases","jounral_abbreviation":"J. Infect. Dis.","journal_issn":"1537-6613","article_jvolumn":"null","article_jissue":"null","article_jcreated_at":"4\/2\/15","article_pagination":"null","author_list":"{\"Valentina A Volchkova\",\"Jaroslav Vorac\",\"Philip Lawrence\",\"Laurie Repiquet-Paire\",\"Viktor E Volchkov\"}"},
+		"Erroneous Value": {"article_jcreated_at": "4/2/15"}
+		"correction_reason": "The format of the original data 4/2/15 is year/month/day. The correct format should be month/day/year. When the month and day are one digits, no 0 is added in front. When the year is one digit, Add 0 in front",
+		"correction": {"article_jcreated_at": "2/15/04"}
+	},
+	{
+		"Dirty Data Tuple": {"index":"3","id":"789958","article_title":"Duane retraction syndrome associated with oculocutaneous albinism: an ocular miswiring.","article_language":"eng","journal_title":"Indian journal of ophthalmology","jounral_abbreviation":"Indian J Ophthalmol","journal_issn":"0301-4738","article_jvolumn":"54","article_jissue":"4","article_jcreated_at":"12\/1\/06","article_pagination":"283-4","author_list":"{\"Jitendra Jethani\",\"Shashikant Shetty\",\"Sucheta Parija\",\"P Vijayalakshmi\"}"},
+		"Erroneous Value": {"article_jcreated_at": "12/1/06"}
+		"correction": {"article_jcreated_at": "1/6/12"}
+	},
+	{
+		"Dirty Data Tuple": {"index":"8","id":"729712","article_title":"Long-term effects of spontaneous breathing during ventilatory support in patients with acute lung injury","article_language":"English; ABSTRACT LANGUAGE:English","journal_title":"American journal of respiratory and critical care medicine","jounral_abbreviation":"null","journal_issn":"null","article_jvolumn":"164","article_jissue":"1","article_jcreated_at":"7\/1\/01","article_pagination":"43-49","author_list":"{\"St\ufffd\ufffd_ber F\",\"Mutz N\",\"Wrigge H\",\"Putensen C\",\"Zinserling J\",\"Zech S\",\"Von Spiegel T\"}"},
+		"Erroneous Value": {"article_jcreated_at": "7/1/01"}
+		"correction":{"article_jcreated_at": "1/1/07"}
+	},
+	{
+		"Dirty Data Tuple": {"index":"8","id":"729712","article_title":"Long-term effects of spontaneous breathing during ventilatory support in patients with acute lung injury","article_language":"English; ABSTRACT LANGUAGE:English","journal_title":"American journal of respiratory and critical care medicine","jounral_abbreviation":"null","journal_issn":"null","article_jvolumn":"164","article_jissue":"1","article_jcreated_at":"7\/1\/01","article_pagination":"43-49","author_list":"{\"St\ufffd\ufffd_ber F\",\"Mutz N\",\"Wrigge H\",\"Putensen C\",\"Zinserling J\",\"Zech S\",\"Von Spiegel T\"}"},
+		"Erroneous Value": {"author_list": "{\"St��_ber F\",\"Mutz N\",\"Wrigge H\",\"Putensen C\",\"Zinserling J\",\"Zech S\",\"Von Spiegel T\"}"}
+		"correction": {"author_list": "{"St_ber F","Mutz N","Wrigge H","Putensen C","Zinserling J","Zech S","Von Spiegel T"}"}
+	}
+]
+
+	{
+		"Dirty Data Tuple": {"index":"11","id":"184417","article_title":"Disparities in childhood asthma hospitalizations: A spatial analysis of contextual effects","article_language":"null","journal_title":"Transportation Research Part D-Transport and Environment","jounral_abbreviation":"null","journal_issn":"1361-9209","article_jvolumn":"14","article_jissue":"5","article_jcreated_at":"1\/1\/09","article_pagination":"317-325","author_list":"{\"J. L. Li\",\"P. Newcomb\"}"},
+		"Erroneous Value": {"article_jcreated_at": "1/1/09"}
+	}
+	{
+		"Dirty Data Tuple": {"index":"15","id":"53321","article_title":"Monoaxial versus polyaxial locking systems: a biomechanical analysis of different locking systems for the fixation of proximal humeral fractures","article_language":"eng","journal_title":"null","jounral_abbreviation":"null","journal_issn":"null","article_jvolumn":"35","article_jissue":"8","article_jcreated_at":"1\/1\/11","article_pagination":"1245-50","author_list":"{\"T. Topp\",\"C. Kuhne\",\"S. Ruchholtz\",\"U. Lewan\",\"A. Kruger\",\"T. Muller\",\"R. Zettl\"}"},
+		"Erroneous Value": {"article_jcreated_at": "1/1/11"}
+	}

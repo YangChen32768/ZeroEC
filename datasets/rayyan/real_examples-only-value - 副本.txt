@@ -1,0 +1,25 @@
+[
+	{
+		"Erroneous Value": {"article_jissue": "null"},
+		"correction":  {"article_jissue": "-1"},
+	},
+	{
+		"Erroneous Value": {"article_jvolumn": "null"},
+		"correction": {"article_jvolumn": "-1"}
+	},
+	{
+		"Erroneous Value": {"article_jcreated_at": "12/1/06"}
+        "user-provided_reason_for_correction": "The date is written is a wrong order.To fix it, like "12/1/06", just follow these steps:1.Look at the first number (12). Move it to the end.2.Look at the second number (1). Move it to the beginning.3.Keep the last number (06) in the middle.Make sure to put slashes (/) between each part.4.So, "12/1/06" becomes "1/06/12". Finally, remove the leading zeros from the first two numbers and prepend the last number with zeros if necessary to make it a two-digit numberTherefore, the final result will be "1/6/12".",
+		"correction": {"article_jcreated_at": "1/6/12"}
+	},
+	{
+		"Erroneous Value": {"article_jcreated_at": "4/3/05"}
+		"user-provided_reason_for_correction" "The date is written is a wrong order.To fix it, like "4/3/05", just follow these steps:1.Look at the first number (4). Move it to the end.2.Look at the second number (3). Move it to the beginning.3.Keep the last number (05) in the middle.Make sure to put slashes (/) between each part.4.So, "4/3/05" becomes "3/05/4". Finally, remove the leading zeros from the first two numbers and prepend the last number with zeros if necessary to make it a two-digit number.Therefore, the final result will be "3/5/04".",
+		"correction": {"article_jcreated_at": "3/5/04"}
+	},
+	{
+		"Erroneous Value": {"article_jcreated_at": "7/1/01"}
+		"user-provided_reason_for_correction" "The date is written is a wrong order.To fix it, like "7/1/01", just follow these steps:1.Look at the first number (7). Move it to the end.2.Look at the second number (1). Move it to the beginning.3.Keep the last number (01) in the middle.Make sure to put slashes (/) between each part.4.So, "7/1/01" becomes "1/01/7". Finally, remove the leading zeros from the first two numbers and prepend the last number with zeros if necessary to make it a two-digit number.Therefore, the final result will be "1/1/07".",
+		"correction":{"article_jcreated_at": "1/1/07"}
+	},
+]

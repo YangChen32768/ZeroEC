@@ -1,0 +1,101 @@
+index,id,beer-name,style,ounces,abv,ibu,brewery_id,brewery-name,city,state
+1,1436,Pub Beer,American Pale Lager,12,0.05,,408,10 Barrel Brewing Company,Bend,OR
+2,2265,Devil's Cup,American Pale Ale (APA),12,0.066,,177,18th Street Brewery,Gary,IN
+3,2264,Rise of the Phoenix,American IPA,12,0.071,,177,18th Street Brewery,Gary,IN
+4,2263,Sinister,American Double / Imperial IPA,12,0.09,,177,18th Street Brewery,Gary,IN
+5,2262,Sex and Candy,American IPA,12,0.075,,177,18th Street Brewery,Gary,IN
+6,2261,Black Exodus,Oatmeal Stout,12,0.077,,177,18th Street Brewery,Gary,IN
+7,2260,Lake Street Express,American Pale Ale (APA),12,0.045,,177,18th Street Brewery,Gary,IN
+8,2259,Foreman,American Porter,12,0.065,,177,18th Street Brewery,Gary,IN
+9,2258,Jade,American Pale Ale (APA),12,0.055,,177,18th Street Brewery,Gary,IN
+10,2131,Cone Crusher,American Double / Imperial IPA,12,0.086,,177,18th Street Brewery,Gary,IN
+11,2099,Sophomoric Saison,Saison / Farmhouse Ale,12,0.072,,177,18th Street Brewery,Gary,IN
+12,2098,Regional Ring Of Fire,Saison / Farmhouse Ale,12,0.073,,177,18th Street Brewery,Gary,IN
+13,2097,Garce Selé,Saison / Farmhouse Ale,12,0.069,,177,18th Street Brewery,Gary,IN
+14,1980,Troll Destroyer,Belgian IPA,12,0.085,,177,18th Street Brewery,Gary,IN
+15,1979,Bitter Bitch,American Pale Ale (APA),12,0.061,60,177,18th Street Brewery,Gary,IN
+16,2318,Ginja Ninja,Cider,12,0.06,,154,2 Towns Ciderhouse,Corvallis,OR
+17,2170,Cherried Away,Cider,12,0.06,,154,2 Towns Ciderhouse,Corvallis,OR
+18,2169,Rhubarbarian,Cider,12,0.06,,154,2 Towns Ciderhouse,Corvallis,OR
+19,1502,BrightCider,Cider,12,0.06,,154,2 Towns Ciderhouse,Corvallis,OR
+20,1593,He Said Baltic-Style Porter,Baltic Porter,12,0.082,,368,21st Amendment Brewery,San Francisco,CA
+21,1592,He Said Belgian-Style Tripel,Tripel,12,0.082,,368,21st Amendment Brewery,San Francisco,CA
+22,1036,Lower De Boom,American Barleywine,8.4,0.099,92,368,21st Amendment Brewery,San Francisco,CA
+23,1024,Fireside Chat,Winter Warmer,12,0.079,45,368,21st Amendment Brewery,San Francisco,CA
+24,976,Marooned On Hog Island,American Stout,12,0.079,,368,21st Amendment Brewery,San Francisco,CA
+25,876,Bitter American,American Pale Ale (APA),12,0.044,42,368,21st Amendment Brewery,San Francisco,CA
+26,802,Hell or High Watermelon Wheat (2009),Fruit / Vegetable Beer,12,0.049,17,368,21st Amendment Brewery,San Francisco,CA
+27,801,Hell or High Watermelon Wheat (2009),Fruit / Vegetable Beer,12,0.049,17,368,21st Amendment Brewery,San Francisco,CA
+28,800,21st Amendment Watermelon Wheat Beer (2006),Fruit / Vegetable Beer,12,0.049,17,368,21st Amendment Brewery,San Francisco,CA
+29,799,21st Amendment IPA (2006),American IPA,12,0.07,70,368,21st Amendment Brewery,San Francisco,CA
+30,797,Brew Free! or Die IPA (2008),American IPA,12,0.07,70,368,21st Amendment Brewery,San Francisco,CA
+31,796,Brew Free! or Die IPA (2009),American IPA,12,0.07,70,368,21st Amendment Brewery,San Francisco,CA
+32,531,Special Edition: Allies Win The War!,English Strong Ale,12,0.085,52,368,21st Amendment Brewery,San Francisco,CA
+33,432,Hop Crisis,American Double / Imperial IPA,12,0.097,94,368,21st Amendment Brewery,San Francisco,CA
+34,353,Bitter American (2011),American Pale Ale (APA),12,0.044,42,368,21st Amendment Brewery,San Francisco,CA
+35,321,Fireside Chat (2010),Winter Warmer,12,0.079,45,368,21st Amendment Brewery,San Francisco,CA
+36,173,Back in Black,American Black Ale,12,0.068,65,368,21st Amendment Brewery,San Francisco,CA
+37,11,Monk's Blood,Belgian Dark Ale,12,0.083,35,368,21st Amendment Brewery,San Francisco,CA
+38,10,Brew Free! or Die IPA,American IPA,12,0.07,65,368,21st Amendment Brewery,San Francisco,CA
+39,9,Hell or High Watermelon Wheat,Fruit / Vegetable Beer,12,0.049,17,368,21st Amendment Brewery,San Francisco,CA
+40,2519,Bimini Twist,American IPA,12,0.07,82,67,3 Daughters Brewing,St Petersburg,FL
+41,2518,Beach Blonde,American Blonde Ale,12,0.05,,67,3 Daughters Brewing,St Petersburg,FL
+42,2517,Rod Bender Red,American Amber / Red Ale,12,0.059,,67,3 Daughters Brewing,St Petersburg,FL
+43,2545,Passion Fruit Prussia,Berliner Weissbier,12,0.035,11,60,4 Hands Brewing Company,Saint Louis,MO
+44,2544,Send Help,American Blonde Ale,12,0.045,18,60,4 Hands Brewing Company,Saint Louis,MO
+45,2324,Cast Iron Oatmeal Brown,American Brown Ale,12,0.055,,60,4 Hands Brewing Company,Saint Louis,MO
+46,2288,Reprise Centennial Red,American Amber / Red Ale,12,0.06,,60,4 Hands Brewing Company,Saint Louis,MO
+47,2287,Alter Ego,American Black Ale,12,0.055,,60,4 Hands Brewing Company,Saint Louis,MO
+48,2286,Divided Sky,American IPA,12,0.065,,60,4 Hands Brewing Company,Saint Louis,MO
+49,2285,Resurrected,American IPA,12,0.065,,60,4 Hands Brewing Company,Saint Louis,MO
+50,1870,Contact High,American Pale Wheat Ale,12,0.05,28,60,4 Hands Brewing Company,Saint Louis,MO
+51,2603,Galaxyfest,American IPA,16,0.065,,27,450 North Brewing Company,Columbus,IN
+52,2602,Citrafest,American IPA,16,0.05,45,27,450 North Brewing Company,Columbus,IN
+53,2220,Barn Yeti,Belgian Strong Dark Ale,16,0.09,,27,450 North Brewing Company,Columbus,IN
+54,2219,Scarecrow,American IPA,16,0.069,65,27,450 North Brewing Company,Columbus,IN
+55,2218,Ironman,English Strong Ale,16,0.09,50,27,450 North Brewing Company,Columbus,IN
+56,2217,Honey Kolsch,Kölsch,16,0.046,15,27,450 North Brewing Company,Columbus,IN
+57,2216,Copperhead Amber,Belgian Dark Ale,16,0.052,18,27,450 North Brewing Company,Columbus,IN
+58,972,Rude Parrot IPA,American IPA,16,0.059,75,481,7 Seas Brewing Company,Gig Harbor,WA
+59,866,British Pale Ale (2010),English Pale Ale,16,0.054,30,481,7 Seas Brewing Company,Gig Harbor,WA
+60,48,British Pale Ale,English Pale Ale,16,0.054,30,481,7 Seas Brewing Company,Gig Harbor,WA
+61,47,Ballz Deep Double IPA,American Double / Imperial IPA,16,0.084,82,481,7 Seas Brewing Company,Gig Harbor,WA
+62,1583,Wolfman's Berliner,Berliner Weissbier,12,0.038,,373,7venth Sun,Dunedin,FL
+63,1165,Colorado Native,American Amber / Red Lager,12,0.055,26,462,AC Golden Brewing Company,Golden,CO
+64,431,Colorado Native (2011),American Amber / Red Lager,12,0.055,26,462,AC Golden Brewing Company,Golden,CO
+65,516,Jockamo IPA,American IPA,12,0.065,52,533,Abita Brewing Company,Abita Springs,LA
+66,515,Purple Haze,Fruit / Vegetable Beer,12,0.042,13,533,Abita Brewing Company,Abita Springs,LA
+67,514,Abita Amber,American Amber / Red Lager,12,0.045,17,533,Abita Brewing Company,Abita Springs,LA
+68,2540,Citra Ass Down,American IPA,16,0.082,68,62,Against The Grain Brewery,Louisville,KY
+69,2539,The Brown Note,American Brown Ale,16,0.05,20,62,Against The Grain Brewery,Louisville,KY
+70,2686,Citra Ass Down,American Double / Imperial IPA,16,0.08,68,1,Against the Grain Brewery,Louisville,KY
+71,2685,London Balling,English Barleywine,16,0.125,80,1,Against the Grain Brewery,Louisville,KY
+72,2684,35 K,Milk / Sweet Stout,16,0.077,25,1,Against the Grain Brewery,Louisville,KY
+73,2683,A Beer,American Pale Ale (APA),16,0.042,42,1,Against the Grain Brewery,Louisville,KY
+74,2682,Rules are Rules,German Pilsener,16,0.05,25,1,Against the Grain Brewery,Louisville,KY
+75,2681,Flesh Gourd'n,Pumpkin Ale,16,0.066,21,1,Against the Grain Brewery,Louisville,KY
+76,2680,Sho'nuff,Belgian Pale Ale,16,0.04,13,1,Against the Grain Brewery,Louisville,KY
+77,2679,Bloody Show,American Pilsner,16,0.055,17,1,Against the Grain Brewery,Louisville,KY
+78,2678,Rico Sauvin,American Double / Imperial IPA,16,0.076,68,1,Against the Grain Brewery,Louisville,KY
+79,2677,Coq de la Marche,Saison / Farmhouse Ale,16,0.051,38,1,Against the Grain Brewery,Louisville,KY
+80,2676,Kamen Knuddeln,American Wild Ale,16,0.065,,1,Against the Grain Brewery,Louisville,KY
+81,2675,Pile of Face,American IPA,16,0.06,65,1,Against the Grain Brewery,Louisville,KY
+82,2674,The Brown Note,English Brown Ale,16,0.05,20,1,Against the Grain Brewery,Louisville,KY
+83,1594,Maylani's Coconut Stout,American Stout,16,0.053,35,367,Airways Brewing Company,Kent,WA
+84,1162,Oatmeal PSA,American Pale Ale (APA),16,0.05,35,367,Airways Brewing Company,Kent,WA
+85,1137,Pre Flight Pilsner,American Pilsner,16,0.052,33,367,Airways Brewing Company,Kent,WA
+86,2403,P-Town Pilsner,American Pilsner,12,0.04,20,117,Alameda Brewing,Portland,OR
+87,2402,Klickitat Pale Ale,American Pale Ale (APA),12,0.053,36,117,Alameda Brewing,Portland,OR
+88,2401,Yellow Wolf Imperial IPA,American Double / Imperial IPA,12,0.082,103,117,Alameda Brewing,Portland,OR
+89,1921,Freeride APA,American Pale Ale (APA),12,0.053,40,270,Alaskan Brewing Company,Juneau,AK
+90,1920,Alaskan Amber,Altbier,12,0.053,18,270,Alaskan Brewing Company,Juneau,AK
+91,2501,Hopalicious,American Pale Ale (APA),12,0.057,,73,Ale Asylum,Madison,WI
+92,1535,Kentucky Kölsch,Kölsch,16,0.043,,388,Alltech's Lexington Brewing Company,Lexington,KY
+93,1149,Kentucky IPA,American IPA,16,0.065,,388,Alltech's Lexington Brewing Company,Lexington,KY
+94,1474,Dusty Trail Pale Ale,American Pale Ale (APA),16,0.054,,401,Amnesia Brewing Company,Washougal,WA
+95,1473,Damnesia,American IPA,16,0.062,,401,Amnesia Brewing Company,Washougal,WA
+96,837,Desolation IPA,American IPA,16,0.062,43,401,Amnesia Brewing Company,Washougal,WA
+97,2592,Liberty Ale,American IPA,12,0.059,,35,Anchor Brewing Company,San Francisco,CA
+98,2578,IPA,American IPA,12,0.065,,35,Anchor Brewing Company,San Francisco,CA
+99,2577,Summer Wheat,American Pale Wheat Ale,12,0.045,,35,Anchor Brewing Company,San Francisco,CA
+100,2103,California Lager,American Amber / Red Lager,12,0.049,,35,Anchor Brewing Company,San Francisco,CA

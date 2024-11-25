@@ -1,0 +1,42 @@
+[
+	{
+		"Erroneous Value": {"MeasureName": "surgery patients who were taking heart drugs caxxed beta bxockers before coming to the hospitax who were kept on the beta bxockers during the period just before and after their surgery"},
+		"correction": {"MeasureName": "surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery"}
+	},
+	{
+		"Erroneous Value": {"ProviderNumber": "x0005"},
+		"correction": {"ProviderNumber": "10005"}
+	},
+	{
+		"Erroneous Value": {"MeasureCode": "axi-2"}
+		"correction": {"MeasureCode": "ami-2"}
+	},
+	{
+		"Erroneous Value": {"Score": "x00%"}
+		"correction": {"Score": "100%"}
+	},
+	{
+		"Erroneous Value": {"Sample": "619 paxienxs"}
+		"correction": {"Sample": "619 patients"}
+	},
+	{
+		"Erroneous Value": {"HospitalName": "southeast alabama medxcal center"}
+		"correction": {"HospitalName": "southeast alabama medical center"}
+	},
+	{
+		"Erroneous Value": {"PhoneNumber": "334793870x"}
+		"correction": {"PhoneNumber": "3347938701"}
+	},
+	{
+		"Erroneous Value": {"MeasureName": "xeart attack patients given aspirin at arrival"},
+		"correction": {"MeasureName": "heart attack patients given aspirin at arrival"}
+	},
+	{
+		"Erroneous Value": {"MeasureCode": "hfx1"}
+		"correction": {"MeasureCode": "hf-1"}
+	},
+	{
+		"Erroneous Value": {"Score": "93x"}
+		"correction": {"Score": "93%"}
+	},
+]

@@ -1,0 +1,27 @@
+[
+	{
+		"Dirty Tuple": {"tuple_id":"2","src":"aa","flight":"AA-1733-ORD-PHX","sched_dep_time":"7:45 p.m.","act_dep_time":"7:58 p.m.","sched_arr_time":"10:30 p.m.","act_arr_time":"null"},
+		"Erroneous Value": {"act_arr_time": "null"},
+		"correction": {"act_arr_time": "10:30 p.m."},
+	},
+	{
+		"Dirty Data Tuple": {"tuple_id":"3","src":"aa","flight":"AA-1640-MIA-MCO","sched_dep_time":"6:30 p.m.","act_dep_time":"null","sched_arr_time":"7:25 p.m.","act_arr_time":"null"},
+		"Erroneous Value": {"act_dep_time": "null","act_arr_time": "null"}
+		"correction": {"act_dep_time": "6:30 p.m.","act_arr_time": "7:25 p.m."}
+	},
+	{
+		"Dirty Data Tuple": {"tuple_id":"6","src":"aa","flight":"AA-204-LAX-MCO","sched_dep_time":"11:25 p.m.","act_dep_time":"null","sched_arr_time":"12\/02\/2011 6:55 a.m.","act_arr_time":"null"},
+		"Erroneous Value": {"act_dep_time": "null","sched_arr_time": "12/02/2011 6:55 a.m.","act_arr_time":"null"}
+		"correction":  {"act_dep_time": "11:25 p.m.","sched_arr_time": "6:55 a.m.","act_arr_time":"6:55 a.m."}
+	},
+	{
+		"Dirty Data Tuple": {"tuple_id":"32","src":"aa","flight":"AA-1522-SFO-ORD","sched_dep_time":"11:55 p.m.","act_dep_time":"null","sched_arr_time":"12\/02\/2011 5:50 a.m.","act_arr_time":"null"},
+		"Erroneous Value":  {"act_dep_time": "null","sched_arr_time": "12/02/2011 5:50 a.m.","act_arr_time":"null"}
+		"correction": {"act_dep_time": "11:55 p.m.","sched_arr_time": "5:50 a.m.","act_arr_time":"5:50 a.m."}
+	},
+	{
+		"Dirty Data Tuple": {"tuple_id":"33","src":"aa","flight":"AA-3823-LAX-DEN","sched_dep_time":"9:00 p.m.","act_dep_time":"null","sched_arr_time":"12\/02\/2011 12:15 a.m.","act_arr_time":"null"},
+		"Erroneous Value":{"act_dep_time": "null","sched_arr_time": "12/02/2011 12:15 a.m.","act_arr_time":"null"}
+		"correction": {"act_dep_time": "9:00 p.m.","sched_arr_time": "12:15 a.m.","act_arr_time":"12:15 a.m."}
+	}
+]

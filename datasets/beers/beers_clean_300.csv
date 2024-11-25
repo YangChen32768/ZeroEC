@@ -1,0 +1,301 @@
+index,id,beer-name,style,ounces,abv,ibu,brewery_id,brewery-name,city,state
+1,1436,Pub Beer,American Pale Lager,12,0.05,,408,10 Barrel Brewing Company,Bend,OR
+2,2265,Devil's Cup,American Pale Ale (APA),12,0.066,,177,18th Street Brewery,Gary,IN
+3,2264,Rise of the Phoenix,American IPA,12,0.071,,177,18th Street Brewery,Gary,IN
+4,2263,Sinister,American Double / Imperial IPA,12,0.09,,177,18th Street Brewery,Gary,IN
+5,2262,Sex and Candy,American IPA,12,0.075,,177,18th Street Brewery,Gary,IN
+6,2261,Black Exodus,Oatmeal Stout,12,0.077,,177,18th Street Brewery,Gary,IN
+7,2260,Lake Street Express,American Pale Ale (APA),12,0.045,,177,18th Street Brewery,Gary,IN
+8,2259,Foreman,American Porter,12,0.065,,177,18th Street Brewery,Gary,IN
+9,2258,Jade,American Pale Ale (APA),12,0.055,,177,18th Street Brewery,Gary,IN
+10,2131,Cone Crusher,American Double / Imperial IPA,12,0.086,,177,18th Street Brewery,Gary,IN
+11,2099,Sophomoric Saison,Saison / Farmhouse Ale,12,0.072,,177,18th Street Brewery,Gary,IN
+12,2098,Regional Ring Of Fire,Saison / Farmhouse Ale,12,0.073,,177,18th Street Brewery,Gary,IN
+13,2097,Garce Selé,Saison / Farmhouse Ale,12,0.069,,177,18th Street Brewery,Gary,IN
+14,1980,Troll Destroyer,Belgian IPA,12,0.085,,177,18th Street Brewery,Gary,IN
+15,1979,Bitter Bitch,American Pale Ale (APA),12,0.061,60,177,18th Street Brewery,Gary,IN
+16,2318,Ginja Ninja,Cider,12,0.06,,154,2 Towns Ciderhouse,Corvallis,OR
+17,2170,Cherried Away,Cider,12,0.06,,154,2 Towns Ciderhouse,Corvallis,OR
+18,2169,Rhubarbarian,Cider,12,0.06,,154,2 Towns Ciderhouse,Corvallis,OR
+19,1502,BrightCider,Cider,12,0.06,,154,2 Towns Ciderhouse,Corvallis,OR
+20,1593,He Said Baltic-Style Porter,Baltic Porter,12,0.082,,368,21st Amendment Brewery,San Francisco,CA
+21,1592,He Said Belgian-Style Tripel,Tripel,12,0.082,,368,21st Amendment Brewery,San Francisco,CA
+22,1036,Lower De Boom,American Barleywine,8.4,0.099,92,368,21st Amendment Brewery,San Francisco,CA
+23,1024,Fireside Chat,Winter Warmer,12,0.079,45,368,21st Amendment Brewery,San Francisco,CA
+24,976,Marooned On Hog Island,American Stout,12,0.079,,368,21st Amendment Brewery,San Francisco,CA
+25,876,Bitter American,American Pale Ale (APA),12,0.044,42,368,21st Amendment Brewery,San Francisco,CA
+26,802,Hell or High Watermelon Wheat (2009),Fruit / Vegetable Beer,12,0.049,17,368,21st Amendment Brewery,San Francisco,CA
+27,801,Hell or High Watermelon Wheat (2009),Fruit / Vegetable Beer,12,0.049,17,368,21st Amendment Brewery,San Francisco,CA
+28,800,21st Amendment Watermelon Wheat Beer (2006),Fruit / Vegetable Beer,12,0.049,17,368,21st Amendment Brewery,San Francisco,CA
+29,799,21st Amendment IPA (2006),American IPA,12,0.07,70,368,21st Amendment Brewery,San Francisco,CA
+30,797,Brew Free! or Die IPA (2008),American IPA,12,0.07,70,368,21st Amendment Brewery,San Francisco,CA
+31,796,Brew Free! or Die IPA (2009),American IPA,12,0.07,70,368,21st Amendment Brewery,San Francisco,CA
+32,531,Special Edition: Allies Win The War!,English Strong Ale,12,0.085,52,368,21st Amendment Brewery,San Francisco,CA
+33,432,Hop Crisis,American Double / Imperial IPA,12,0.097,94,368,21st Amendment Brewery,San Francisco,CA
+34,353,Bitter American (2011),American Pale Ale (APA),12,0.044,42,368,21st Amendment Brewery,San Francisco,CA
+35,321,Fireside Chat (2010),Winter Warmer,12,0.079,45,368,21st Amendment Brewery,San Francisco,CA
+36,173,Back in Black,American Black Ale,12,0.068,65,368,21st Amendment Brewery,San Francisco,CA
+37,11,Monk's Blood,Belgian Dark Ale,12,0.083,35,368,21st Amendment Brewery,San Francisco,CA
+38,10,Brew Free! or Die IPA,American IPA,12,0.07,65,368,21st Amendment Brewery,San Francisco,CA
+39,9,Hell or High Watermelon Wheat,Fruit / Vegetable Beer,12,0.049,17,368,21st Amendment Brewery,San Francisco,CA
+40,2519,Bimini Twist,American IPA,12,0.07,82,67,3 Daughters Brewing,St Petersburg,FL
+41,2518,Beach Blonde,American Blonde Ale,12,0.05,,67,3 Daughters Brewing,St Petersburg,FL
+42,2517,Rod Bender Red,American Amber / Red Ale,12,0.059,,67,3 Daughters Brewing,St Petersburg,FL
+43,2545,Passion Fruit Prussia,Berliner Weissbier,12,0.035,11,60,4 Hands Brewing Company,Saint Louis,MO
+44,2544,Send Help,American Blonde Ale,12,0.045,18,60,4 Hands Brewing Company,Saint Louis,MO
+45,2324,Cast Iron Oatmeal Brown,American Brown Ale,12,0.055,,60,4 Hands Brewing Company,Saint Louis,MO
+46,2288,Reprise Centennial Red,American Amber / Red Ale,12,0.06,,60,4 Hands Brewing Company,Saint Louis,MO
+47,2287,Alter Ego,American Black Ale,12,0.055,,60,4 Hands Brewing Company,Saint Louis,MO
+48,2286,Divided Sky,American IPA,12,0.065,,60,4 Hands Brewing Company,Saint Louis,MO
+49,2285,Resurrected,American IPA,12,0.065,,60,4 Hands Brewing Company,Saint Louis,MO
+50,1870,Contact High,American Pale Wheat Ale,12,0.05,28,60,4 Hands Brewing Company,Saint Louis,MO
+51,2603,Galaxyfest,American IPA,16,0.065,,27,450 North Brewing Company,Columbus,IN
+52,2602,Citrafest,American IPA,16,0.05,45,27,450 North Brewing Company,Columbus,IN
+53,2220,Barn Yeti,Belgian Strong Dark Ale,16,0.09,,27,450 North Brewing Company,Columbus,IN
+54,2219,Scarecrow,American IPA,16,0.069,65,27,450 North Brewing Company,Columbus,IN
+55,2218,Ironman,English Strong Ale,16,0.09,50,27,450 North Brewing Company,Columbus,IN
+56,2217,Honey Kolsch,Kölsch,16,0.046,15,27,450 North Brewing Company,Columbus,IN
+57,2216,Copperhead Amber,Belgian Dark Ale,16,0.052,18,27,450 North Brewing Company,Columbus,IN
+58,972,Rude Parrot IPA,American IPA,16,0.059,75,481,7 Seas Brewing Company,Gig Harbor,WA
+59,866,British Pale Ale (2010),English Pale Ale,16,0.054,30,481,7 Seas Brewing Company,Gig Harbor,WA
+60,48,British Pale Ale,English Pale Ale,16,0.054,30,481,7 Seas Brewing Company,Gig Harbor,WA
+61,47,Ballz Deep Double IPA,American Double / Imperial IPA,16,0.084,82,481,7 Seas Brewing Company,Gig Harbor,WA
+62,1583,Wolfman's Berliner,Berliner Weissbier,12,0.038,,373,7venth Sun,Dunedin,FL
+63,1165,Colorado Native,American Amber / Red Lager,12,0.055,26,462,AC Golden Brewing Company,Golden,CO
+64,431,Colorado Native (2011),American Amber / Red Lager,12,0.055,26,462,AC Golden Brewing Company,Golden,CO
+65,516,Jockamo IPA,American IPA,12,0.065,52,533,Abita Brewing Company,Abita Springs,LA
+66,515,Purple Haze,Fruit / Vegetable Beer,12,0.042,13,533,Abita Brewing Company,Abita Springs,LA
+67,514,Abita Amber,American Amber / Red Lager,12,0.045,17,533,Abita Brewing Company,Abita Springs,LA
+68,2540,Citra Ass Down,American IPA,16,0.082,68,62,Against The Grain Brewery,Louisville,KY
+69,2539,The Brown Note,American Brown Ale,16,0.05,20,62,Against The Grain Brewery,Louisville,KY
+70,2686,Citra Ass Down,American Double / Imperial IPA,16,0.08,68,1,Against the Grain Brewery,Louisville,KY
+71,2685,London Balling,English Barleywine,16,0.125,80,1,Against the Grain Brewery,Louisville,KY
+72,2684,35 K,Milk / Sweet Stout,16,0.077,25,1,Against the Grain Brewery,Louisville,KY
+73,2683,A Beer,American Pale Ale (APA),16,0.042,42,1,Against the Grain Brewery,Louisville,KY
+74,2682,Rules are Rules,German Pilsener,16,0.05,25,1,Against the Grain Brewery,Louisville,KY
+75,2681,Flesh Gourd'n,Pumpkin Ale,16,0.066,21,1,Against the Grain Brewery,Louisville,KY
+76,2680,Sho'nuff,Belgian Pale Ale,16,0.04,13,1,Against the Grain Brewery,Louisville,KY
+77,2679,Bloody Show,American Pilsner,16,0.055,17,1,Against the Grain Brewery,Louisville,KY
+78,2678,Rico Sauvin,American Double / Imperial IPA,16,0.076,68,1,Against the Grain Brewery,Louisville,KY
+79,2677,Coq de la Marche,Saison / Farmhouse Ale,16,0.051,38,1,Against the Grain Brewery,Louisville,KY
+80,2676,Kamen Knuddeln,American Wild Ale,16,0.065,,1,Against the Grain Brewery,Louisville,KY
+81,2675,Pile of Face,American IPA,16,0.06,65,1,Against the Grain Brewery,Louisville,KY
+82,2674,The Brown Note,English Brown Ale,16,0.05,20,1,Against the Grain Brewery,Louisville,KY
+83,1594,Maylani's Coconut Stout,American Stout,16,0.053,35,367,Airways Brewing Company,Kent,WA
+84,1162,Oatmeal PSA,American Pale Ale (APA),16,0.05,35,367,Airways Brewing Company,Kent,WA
+85,1137,Pre Flight Pilsner,American Pilsner,16,0.052,33,367,Airways Brewing Company,Kent,WA
+86,2403,P-Town Pilsner,American Pilsner,12,0.04,20,117,Alameda Brewing,Portland,OR
+87,2402,Klickitat Pale Ale,American Pale Ale (APA),12,0.053,36,117,Alameda Brewing,Portland,OR
+88,2401,Yellow Wolf Imperial IPA,American Double / Imperial IPA,12,0.082,103,117,Alameda Brewing,Portland,OR
+89,1921,Freeride APA,American Pale Ale (APA),12,0.053,40,270,Alaskan Brewing Company,Juneau,AK
+90,1920,Alaskan Amber,Altbier,12,0.053,18,270,Alaskan Brewing Company,Juneau,AK
+91,2501,Hopalicious,American Pale Ale (APA),12,0.057,,73,Ale Asylum,Madison,WI
+92,1535,Kentucky Kölsch,Kölsch,16,0.043,,388,Alltech's Lexington Brewing Company,Lexington,KY
+93,1149,Kentucky IPA,American IPA,16,0.065,,388,Alltech's Lexington Brewing Company,Lexington,KY
+94,1474,Dusty Trail Pale Ale,American Pale Ale (APA),16,0.054,,401,Amnesia Brewing Company,Washougal,WA
+95,1473,Damnesia,American IPA,16,0.062,,401,Amnesia Brewing Company,Washougal,WA
+96,837,Desolation IPA,American IPA,16,0.062,43,401,Amnesia Brewing Company,Washougal,WA
+97,2592,Liberty Ale,American IPA,12,0.059,,35,Anchor Brewing Company,San Francisco,CA
+98,2578,IPA,American IPA,12,0.065,,35,Anchor Brewing Company,San Francisco,CA
+99,2577,Summer Wheat,American Pale Wheat Ale,12,0.045,,35,Anchor Brewing Company,San Francisco,CA
+100,2103,California Lager,American Amber / Red Lager,12,0.049,,35,Anchor Brewing Company,San Francisco,CA
+101,2102,Brotherhood Steam,California Common / Steam Beer,12,0.056,,35,Anchor Brewing Company,San Francisco,CA
+102,2291,Blood Orange Gose,Gose,12,0.042,,171,Anderson Valley Brewing Company,Boonville,CA
+103,1818,Keebarlin' Pale Ale,American Pale Ale (APA),12,0.042,,171,Anderson Valley Brewing Company,Boonville,CA
+104,1738,"the Kimmie, the Yink and the Holy Gose",Gose,12,0.048,,171,Anderson Valley Brewing Company,Boonville,CA
+105,1563,Fall Hornin',Pumpkin Ale,12,0.06,,171,Anderson Valley Brewing Company,Boonville,CA
+106,1520,Barney Flats Oatmeal Stout,Oatmeal Stout,12,0.057,13,171,Anderson Valley Brewing Company,Boonville,CA
+107,1350,Summer Solstice,Cream Ale,12,0.056,4,171,Anderson Valley Brewing Company,Boonville,CA
+108,1327,Hop Ottin' IPA,American IPA,12,0.07,80,171,Anderson Valley Brewing Company,Boonville,CA
+109,1326,Boont Amber Ale,American Amber / Red Ale,12,0.058,15,171,Anderson Valley Brewing Company,Boonville,CA
+110,1221,Barney Flats Oatmeal Stout,Oatmeal Stout,12,0.057,13,171,Anderson Valley Brewing Company,Boonville,CA
+111,1217,El Steinber Dark Lager,Vienna Lager,16,0.055,25,171,Anderson Valley Brewing Company,Boonville,CA
+112,811,Boont Amber Ale (2010),American Amber / Red Ale,12,0.058,15,171,Anderson Valley Brewing Company,Boonville,CA
+113,753,Summer Solstice Cerveza Crema (2009),Cream Ale,12,0.056,4,171,Anderson Valley Brewing Company,Boonville,CA
+114,572,Barney Flats Oatmeal Stout (2012),Oatmeal Stout,12,0.057,13,171,Anderson Valley Brewing Company,Boonville,CA
+115,523,Winter Solstice,Winter Warmer,12,0.069,6,171,Anderson Valley Brewing Company,Boonville,CA
+116,367,Hop Ottin' IPA (2011),American IPA,12,0.07,80,171,Anderson Valley Brewing Company,Boonville,CA
+117,78,Boont Amber Ale (2011),American Amber / Red Ale,12,0.058,15,171,Anderson Valley Brewing Company,Boonville,CA
+118,77,Summer Solstice (2011),Cream Ale,12,0.056,4,171,Anderson Valley Brewing Company,Boonville,CA
+119,76,Poleeko Gold Pale Ale (2009),American Pale Ale (APA),12,0.055,28,171,Anderson Valley Brewing Company,Boonville,CA
+120,2337,Charlie's Rye IPA,American IPA,16,0.06,,146,Angry Minnow,Hayward,WI
+121,410,River Pig Pale Ale,American Pale Ale (APA),16,0.054,,542,Angry Minnow Brewing Company,Hayward,WI
+122,409,Oaky's Oatmeal Stout,Oatmeal Stout,16,0.047,,542,Angry Minnow Brewing Company,Hayward,WI
+123,1294,Angry Orchard Apple Ginger,Cider,16,0.05,,434,Angry Orchard Cider Company,Cincinnati,OH
+124,1293,Angry Orchard Crisp Apple,Cider,16,0.05,,434,Angry Orchard Cider Company,Cincinnati,OH
+125,1292,Angry Orchard Crisp Apple,Cider,12,0.05,,434,Angry Orchard Cider Company,Cincinnati,OH
+126,2207,Golden One,Belgian Pale Ale,12,0.068,,193,Anthem Brewing Company,Oklahoma City,OK
+127,2040,Arjuna,Witbier,12,0.06,,193,Anthem Brewing Company,Oklahoma City,OK
+128,2039,Uroboros,American Stout,12,0.085,,193,Anthem Brewing Company,Oklahoma City,OK
+129,2511,Long Leaf,American IPA,16,0.071,75,69,Appalachian Mountain Brewery,Boone,NC
+130,2510,Honey Badger Blonde,American Blonde Ale,16,0.047,19,69,Appalachian Mountain Brewery,Boone,NC
+131,2509,Porter (a/k/a Black Gold Porter),American Porter,16,0.06,23,69,Appalachian Mountain Brewery,Boone,NC
+132,413,Sky High Rye,American Pale Ale (APA),12,0.06,55,541,Arcadia Brewing Company,Battle Creek,MI
+133,390,Whitsun,American Pale Wheat Ale,12,0.062,17,541,Arcadia Brewing Company,Battle Creek,MI
+134,735,On-On Ale (2008),American Pale Ale (APA),12,0.052,,513,Arctic Craft Brewery,Colorado Springs,CO
+135,1333,Quakertown Stout,American Double / Imperial Stout,12,0.092,50,426,Armadillo Ale Works,Denton,TX
+136,1332,Greenbelt Farmhouse Ale,Saison / Farmhouse Ale,12,0.051,20,426,Armadillo Ale Works,Denton,TX
+137,1172,Mo's Gose,Gose,16,0.052,10,461,Armstrong Brewing Company,South San Francisco,CA
+138,1322,Green Bullet Organic India Pale Ale,American IPA,16,0.07,45,429,Asher Brewing Company,Boulder,CO
+139,550,Rocket Girl,Kölsch,12,0.032,27,528,Asheville Brewing Company,Asheville,NC
+140,429,Ninja Porter,American Porter,12,0.053,26,528,Asheville Brewing Company,Asheville,NC
+141,428,Shiva IPA,American IPA,12,0.06,69,528,Asheville Brewing Company,Asheville,NC
+142,1640,Aslan Kölsch,Kölsch,16,0.048,,353,Aslan Brewing Company,Bellingham,WA
+143,1639,Aslan IPA,American IPA,16,0.077,,353,Aslan Brewing Company,Bellingham,WA
+144,1638,Aslan Amber,American Amber / Red Ale,16,0.077,,353,Aslan Brewing Company,Bellingham,WA
+145,597,This Season's Blonde,American Blonde Ale,12,0.056,27,523,Aspen Brewing Company,Aspen,CO
+146,596,Independence Pass Ale,American IPA,12,0.07,67,523,Aspen Brewing Company,Aspen,CO
+147,1580,Trolley Stop Stout,American Stout,12,0.057,40,374,Astoria Brewing Company,Astoria,OR
+148,980,Bitter Bitch Imperial IPA,American Double / Imperial IPA,12,0.082,138,374,Astoria Brewing Company,Astoria,OR
+149,979,Poop Deck Porter,American Porter,12,0.062,35,374,Astoria Brewing Company,Astoria,OR
+150,978,Old Red Beard Amber Ale,American Amber / Red Ale,12,0.06,35,374,Astoria Brewing Company,Astoria,OR
+151,2503,Hop A-Peel,American Double / Imperial IPA,16,0.075,115,72,Atwater Brewery,Detroit,MI
+152,2502,Vanilla Java Porter,American Porter,16,0.055,12,72,Atwater Brewery,Detroit,MI
+153,2495,Michelada,Fruit / Vegetable Beer,16,0.052,,72,Atwater Brewery,Detroit,MI
+154,534,Dirty Blonde Ale,American Blonde Ale,12,0.045,8,72,Atwater Brewery,Detroit,MI
+155,528,Grand Circus IPA,American IPA,12,0.05,62,72,Atwater Brewery,Detroit,MI
+156,527,Atwater's Lager,Munich Helles Lager,12,0.05,12,72,Atwater Brewery,Detroit,MI
+157,1409,Heavy Machinery IPA Series #1: Heavy Fist,American Black Ale,16,0.07,,413,Austin Beerworks,Austin,TX
+158,343,Fire Eagle IPA,American IPA,12,0.062,,413,Austin Beerworks,Austin,TX
+159,342,Peacemaker,American Pale Ale (APA),12,0.051,,413,Austin Beerworks,Austin,TX
+160,341,Pearl-Snap,German Pilsener,12,0.053,,413,Austin Beerworks,Austin,TX
+161,340,Black Thunder,Schwarzbier,12,0.052,,413,Austin Beerworks,Austin,TX
+162,2589,Raja,American Double / Imperial IPA,12,0.08,,37,Avery Brewing Company,Boulder,CO
+163,2546,Perzik Saison,Saison / Farmhouse Ale,12,0.064,,37,Avery Brewing Company,Boulder,CO
+164,146,Avery Joe’s Premium American Pilsner,German Pilsener,12,0.047,42,37,Avery Brewing Company,Boulder,CO
+165,108,White Rascal,Witbier,12,0.056,10,37,Avery Brewing Company,Boulder,CO
+166,107,Avery India Pale Ale,American IPA,12,0.063,69,37,Avery Brewing Company,Boulder,CO
+167,106,Ellie’s Brown Ale,American Brown Ale,12,0.055,17,37,Avery Brewing Company,Boulder,CO
+168,1620,Pumpkin Beast,Pumpkin Ale,12,0.062,17,360,Aviator Brewing Company,Fuquay-Varina,NC
+169,1579,OktoberBeast,Märzen / Oktoberfest,12,0.072,22,360,Aviator Brewing Company,Fuquay-Varina,NC
+170,1228,Mad Beach,American Pale Wheat Ale,12,0.048,23,360,Aviator Brewing Company,Fuquay-Varina,NC
+171,705,Hog Wild India Pale Ale,American IPA,12,0.067,,360,Aviator Brewing Company,Fuquay-Varina,NC
+172,704,Devils Tramping Ground Tripel,Tripel,12,0.092,5,360,Aviator Brewing Company,Fuquay-Varina,NC
+173,702,Hot Rod Red,American Amber / Red Ale,12,0.061,41,360,Aviator Brewing Company,Fuquay-Varina,NC
+174,2058,Palate Mallet,American Double / Imperial IPA,12,0.086,,235,Back East Brewing Company,Bloomfield,CT
+175,1483,Back East Porter,American Porter,12,0.06,,235,Back East Brewing Company,Bloomfield,CT
+176,1426,Back East Golden Ale,American Blonde Ale,12,0.049,,235,Back East Brewing Company,Bloomfield,CT
+177,1132,Misty Mountain IPA,American IPA,12,0.07,,235,Back East Brewing Company,Bloomfield,CT
+178,1131,Back East Ale,American Amber / Red Ale,12,0.05,,235,Back East Brewing Company,Bloomfield,CT
+179,1876,Truck Stop Honey Brown Ale,English Brown Ale,12,0.06,,286,Back Forty Beer Company,Gadsden,AL
+180,1875,Naked Pig Pale Ale,American Pale Ale (APA),12,0.06,43,286,Back Forty Beer Company,Gadsden,AL
+181,966,Topcutter India Pale Ale,American IPA,12,0.068,70,483,Bale Breaker Brewing Company,Yakima,WA
+182,965,Field 41 Pale Ale,American Pale Ale (APA),12,0.044,38,483,Bale Breaker Brewing Company,Yakima,WA
+183,2593,Grapefruit Sculpin,American IPA,12,0.07,,34,Ballast Point Brewing Company,San Diego,CA
+184,2105,Even Keel,American IPA,12,0.038,40,34,Ballast Point Brewing Company,San Diego,CA
+185,1401,Ballast Point Pale Ale,Kölsch,12,0.052,23,34,Ballast Point Brewing Company,San Diego,CA
+186,1400,Big Eye India Pale Ale,American IPA,12,0.07,75,34,Ballast Point Brewing Company,San Diego,CA
+187,1019,Longfin Lager,Munich Helles Lager,12,0.046,,34,Ballast Point Brewing Company,San Diego,CA
+188,1018,Sculpin IPA,American IPA,12,0.07,70,34,Ballast Point Brewing Company,San Diego,CA
+189,1776,All Nighter Ale,Extra Special / Strong Bitter (ESB),12,0.045,,318,Banner Beer Company,Williamsburg,MA
+190,1644,Banner American Rye,Rye Beer,12,0.045,20,318,Banner Beer Company,Williamsburg,MA
+191,1643,Banner American Ale,American Amber / Red Ale,12,0.035,45,318,Banner Beer Company,Williamsburg,MA
+192,2618,Thai.p.a,American IPA,16,0.07,46,20,Bare Hands Brewery,Granger,IN
+193,2005,Barrio Blanco,American IPA,12,0.06,60,251,Barrio Brewing Company,Tucson,AZ
+194,1343,Barrio Tucson Blonde,American Blonde Ale,12,0.045,,251,Barrio Brewing Company,Tucson,AZ
+195,2404,Hop in the ‘Pool Helles,American Pilsner,12,0.049,22,116,Base Camp Brewing Co.,Portland,OR
+196,2323,Ultra Gnar Gnar IPA,American IPA,12,0.067,60,116,Base Camp Brewing Co.,Portland,OR
+197,2189,In-Tents India Pale Lager,American Pale Lager,12,0.068,62,116,Base Camp Brewing Co.,Portland,OR
+198,2188,Lost Meridian Wit,Witbier,12,0.05,20,116,Base Camp Brewing Co.,Portland,OR
+199,2187,Celestial Meridian Cascadian Dark Lager,Euro Dark Lager,12,0.051,45,116,Base Camp Brewing Co.,Portland,OR
+200,1966,Wagon Party,California Common / Steam Beer,12,0.054,55,258,Bauhaus Brew Labs,Minneapolis,MN
+201,1965,Sky-Five,American IPA,12,0.067,70,258,Bauhaus Brew Labs,Minneapolis,MN
+202,1964,Stargrazer,Schwarzbier,12,0.05,28,258,Bauhaus Brew Labs,Minneapolis,MN
+203,1963,Wonderstuff,German Pilsener,12,0.054,48,258,Bauhaus Brew Labs,Minneapolis,MN
+204,1855,Tarnation California-Style Lager,California Common / Steam Beer,12,0.053,,292,Baxter Brewing Company,Lewiston,ME
+205,1778,On the Count of 3 (2015),Hefeweizen,16,0.07,42,292,Baxter Brewing Company,Lewiston,ME
+206,1209,Summer Swelter,American Pale Wheat Ale,12,0.047,,292,Baxter Brewing Company,Lewiston,ME
+207,954,Phantom Punch Winter Stout,Foreign / Export Stout,12,0.068,,292,Baxter Brewing Company,Lewiston,ME
+208,910,Hayride Autumn Ale,Rye Beer,12,0.066,,292,Baxter Brewing Company,Lewiston,ME
+209,707,Celsius Summer Ale (2012),American Pale Wheat Ale,12,0.047,,292,Baxter Brewing Company,Lewiston,ME
+210,533,Amber Road,American Amber / Red Ale,12,0.055,35,292,Baxter Brewing Company,Lewiston,ME
+211,183,Pamola Xtra Pale Ale,American Pale Ale (APA),12,0.049,28,292,Baxter Brewing Company,Lewiston,ME
+212,182,Stowaway IPA,American IPA,12,0.069,69,292,Baxter Brewing Company,Lewiston,ME
+213,1806,Hoptopus Double IPA,American Double / Imperial IPA,16,0.088,108,306,Beach Brewing Company,Virginia Beach,VA
+214,2435,Watermelon Ale,Fruit / Vegetable Beer,12,0.05,10,103,Beer Works Brewery,Lowell,MA
+215,2423,Fenway American Pale Ale,American Pale Ale (APA),12,0.058,45,103,Beer Works Brewery,Lowell,MA
+216,2420,Back Bay IPA,American IPA,12,0.068,85,103,Beer Works Brewery,Lowell,MA
+217,2419,Bunker Hill Blueberry Ale,Other,12,0.048,16,103,Beer Works Brewery,Lowell,MA
+218,2494,Oberon,American Pale Wheat Ale,12,0.058,,76,Bell's Brewery,Kalamazoo,MI
+219,2325,Smitten,Rye Beer,16,0.06,,76,Bell's Brewery,Kalamazoo,MI
+220,2022,Winter White,Witbier,16,0.05,,76,Bell's Brewery,Kalamazoo,MI
+221,1989,Oberon,American Pale Wheat Ale,16,0.058,,76,Bell's Brewery,Kalamazoo,MI
+222,1988,Two Hearted,American IPA,16,0.07,,76,Bell's Brewery,Kalamazoo,MI
+223,1955,Best Brown,American Brown Ale,16,0.058,,76,Bell's Brewery,Kalamazoo,MI
+224,2558,Moar,English India Pale Ale (IPA),12,0.044,44,53,Bent Brewstillery,Roseville,MN
+225,2557,Uber Lupin Schwarz IPA,American Double / Imperial IPA,16,0.083,,53,Bent Brewstillery,Roseville,MN
+226,2556,Nordic Blonde,American Blonde Ale,12,0.057,27,53,Bent Brewstillery,Roseville,MN
+227,2496,Cold Press,American Black Ale,12,0.06,,75,Bent Paddle Brewing Company,Duluth,MN
+228,2410,Harness the Winter,American IPA,12,0.072,87,75,Bent Paddle Brewing Company,Duluth,MN
+229,1902,14° ESB,Extra Special / Strong Bitter (ESB),12,0.056,32,75,Bent Paddle Brewing Company,Duluth,MN
+230,1901,Bent Hop Golden IPA,American IPA,12,0.062,68,75,Bent Paddle Brewing Company,Duluth,MN
+231,1261,Bent Paddle Black Ale,American Black Ale,12,0.06,34,75,Bent Paddle Brewing Company,Duluth,MN
+232,1253,Venture Pils,German Pilsener,12,0.05,38,75,Bent Paddle Brewing Company,Duluth,MN
+233,1900,Lost Sailor IPA,English India Pale Ale (IPA),12,0.055,40,278,Berkshire Brewing Company,South Deerfield,MA
+234,1317,Steel Rail Extra Pale Ale,American Pale Ale (APA),12,0.053,20,278,Berkshire Brewing Company,South Deerfield,MA
+235,1158,La Frontera Premium IPA,American IPA,12,0.078,,463,Big Bend Brewing Company,Alpine,TX
+236,1157,Tejas Lager,Czech Pilsener,12,0.047,,463,Big Bend Brewing Company,Alpine,TX
+237,1156,Number 22 Porter,American Porter,12,0.064,,463,Big Bend Brewing Company,Alpine,TX
+238,1155,Big Bend Hefeweizen,Hefeweizen,12,0.056,,463,Big Bend Brewing Company,Alpine,TX
+239,1154,Terlingua Gold,American Blonde Ale,12,0.06,,463,Big Bend Brewing Company,Alpine,TX
+240,2104,Aprè Shred,American Strong Ale,16,0.081,17,220,Big Choice Brewing,Broomfield,CO
+241,1762,Hemlock Double IPA,American Double / Imperial IPA,12,0.095,104,220,Big Choice Brewing,Broomfield,CO
+242,1422,West Portal Colorado Common Summer Ale,California Common / Steam Beer,16,0.041,,220,Big Choice Brewing,Broomfield,CO
+243,1067,Disconnected Red,American Amber / Red Ale,16,0.067,85,220,Big Choice Brewing,Broomfield,CO
+244,1003,Big Elm IPA,American IPA,12,0.07,,477,Big Elm Brewing,Sheffield,MA
+245,1002,Gerry Dog Stout,American Stout,12,0.065,,477,Big Elm Brewing,Sheffield,MA
+246,1001,413 Farmhouse Ale,Saison / Farmhouse Ale,12,0.06,,477,Big Elm Brewing,Sheffield,MA
+247,2639,Dark Star,American Stout,16,0.08,54,8,Big Lake Brewing,Holland,MI
+248,2469,Ryecoe,American IPA,16,0.062,,8,Big Lake Brewing,Holland,MI
+249,2586,Blueberry Blonde,Fruit / Vegetable Beer,12,0.06,,40,Big Muddy Brewing,Murphysboro,IL
+250,2585,Galaxy IPA,American IPA,16,0.075,60,40,Big Muddy Brewing,Murphysboro,IL
+251,643,Big River Pilsner,Czech Pilsener,12,0.05,32,519,Big River Brewing Company,Chattanooga,TN
+252,632,House Brand IPA,American IPA,12,0.06,55,519,Big River Brewing Company,Chattanooga,TN
+253,1714,Big Sky IPA,American IPA,12,0.062,65,336,Big Sky Brewing Company,Missoula,MT
+254,1713,Scape Goat Pale Ale,English Pale Ale,12,0.05,40,336,Big Sky Brewing Company,Missoula,MT
+255,1712,Montana Trout Slayer Ale,American Pale Wheat Ale,12,0.05,35,336,Big Sky Brewing Company,Missoula,MT
+256,1711,Moose Drool Brown Ale,American Brown Ale,12,0.051,26,336,Big Sky Brewing Company,Missoula,MT
+257,1456,Powder Hound Winter Ale,English Strong Ale,12,0.072,60,336,Big Sky Brewing Company,Missoula,MT
+258,767,Moose Drool Brown Ale (2011),American Brown Ale,12,0.051,26,336,Big Sky Brewing Company,Missoula,MT
+259,766,Montana Trout Slayer Ale (2012),American Pale Wheat Ale,12,0.05,35,336,Big Sky Brewing Company,Missoula,MT
+260,579,Big Sky IPA (2012),American IPA,12,0.062,65,336,Big Sky Brewing Company,Missoula,MT
+261,168,Summer Honey,American Blonde Ale,12,0.047,,336,Big Sky Brewing Company,Missoula,MT
+262,159,Scape Goat Pale Ale (2010),English Pale Ale,12,0.05,40,336,Big Sky Brewing Company,Missoula,MT
+263,35,Montana Trout Slayer Ale (2009),American Pale Wheat Ale,12,0.05,35,336,Big Sky Brewing Company,Missoula,MT
+264,34,Moose Drool Brown Ale (2009),American Brown Ale,12,0.051,26,336,Big Sky Brewing Company,Missoula,MT
+265,2096,Arcus IPA,American IPA,12,0.069,81,221,Big Storm Brewing Company,Odessa,FL
+266,2095,Wavemaker,American Amber / Red Ale,12,0.058,38,221,Big Storm Brewing Company,Odessa,FL
+267,1257,Jack Pine Savage,American Pale Ale (APA),16,0.053,43,444,Big Wood Brewery,Vadnais Heights,MN
+268,1256,Forest Fire Imperial Smoked Rye,Rye Beer,16,0.099,85,444,Big Wood Brewery,Vadnais Heights,MN
+269,1255,Bad Axe Imperial IPA,American Double / Imperial IPA,16,0.098,76,444,Big Wood Brewery,Vadnais Heights,MN
+270,986,Morning Wood,Oatmeal Stout,16,0.055,35,444,Big Wood Brewery,Vadnais Heights,MN
+271,985,Bark Bite IPA,American IPA,16,0.066,50,444,Big Wood Brewery,Vadnais Heights,MN
+272,2508,Jalapeno Pale Ale,American Pale Ale (APA),16,0.055,45,70,Birdsong Brewing Company,Charlotte,NC
+273,1441,Blown Out Brown,American Brown Ale,12,0.052,,407,Bitter Root Brewing,Hamilton,MT
+274,1413,Single Hop Ale,American Pale Ale (APA),12,0.063,,407,Bitter Root Brewing,Hamilton,MT
+275,1411,Sawtooth Ale,American Blonde Ale,12,0.054,,407,Bitter Root Brewing,Hamilton,MT
+276,2620,Saucy Intruder,Rye Beer,16,0.072,75,18,Black Acre Brewing Co.,Indianapolis,IN
+277,2412,Deception,American Blonde Ale,12,0.045,16,112,Black Market Brewing Company,Temecula,CA
+278,1898,Blackmarket Rye IPA,American IPA,12,0.075,35,112,Black Market Brewing Company,Temecula,CA
+279,1897,Black Market Hefeweizen,Hefeweizen,12,0.05,8,112,Black Market Brewing Company,Temecula,CA
+280,1896,Aftermath Pale Ale,American Pale Ale (APA),12,0.058,44,112,Black Market Brewing Company,Temecula,CA
+281,1850,American India Red Ale,American Strong Ale,12,0.071,83,294,Black Shirt Brewing Company,Denver,CO
+282,1849,American Red Porter,American Porter,12,0.071,45,294,Black Shirt Brewing Company,Denver,CO
+283,1848,American Red Saison,Saison / Farmhouse Ale,12,0.078,34,294,Black Shirt Brewing Company,Denver,CO
+284,1847,Colorado Red Ale,American Amber / Red Ale,12,0.066,44,294,Black Shirt Brewing Company,Denver,CO
+285,2485,Saddle Bronc Brown Ale,American Brown Ale,12,0.048,16,79,Black Tooth Brewing Company,Sheridan,WY
+286,2484,Bomber Mountain Amber Ale,American Amber / Red Ale,12,0.046,20,79,Black Tooth Brewing Company,Sheridan,WY
+287,2449,Flying Sailor,Rye Beer,12,0.073,,95,Blackrocks Brewery,Marquette,MA
+288,2634,Nordskye,American IPA,12,0.048,47,12,Blackrocks Brewery,Marquette,MI
+289,2153,North Third Stout,Foreign / Export Stout,12,0.06,30,12,Blackrocks Brewery,Marquette,MI
+290,1953,Honey Lav,American Pale Wheat Ale,12,0.052,,12,Blackrocks Brewery,Marquette,MI
+291,1496,Coconut Brown Ale,American Brown Ale,12,0.068,,12,Blackrocks Brewery,Marquette,MI
+292,1481,51K IPA,American IPA,12,0.07,51,12,Blackrocks Brewery,Marquette,MI
+293,1480,Grand Rabbits,Cream Ale,12,0.055,,12,Blackrocks Brewery,Marquette,MI
+294,1564,1800 Big Log Wheat (2012),American Pale Wheat Ale,12,0.05,,380,Blue Blood Brewing Company,Lincoln,NE
+295,1541,Double Play Pilsner,American Pilsner,12,,,380,Blue Blood Brewing Company,Lincoln,NE
+296,1321,Brewerhood Brown Ale,American Brown Ale,12,0.055,,380,Blue Blood Brewing Company,Lincoln,NE
+297,1320,Last Call Imperial Amber Ale,American Amber / Red Ale,12,0.08,,380,Blue Blood Brewing Company,Lincoln,NE
+298,1319,Pernicious Double IPA,American Double / Imperial IPA,12,0.096,,380,Blue Blood Brewing Company,Lincoln,NE
+299,1303,6-4-3 Double Play Pilsner,German Pilsener,12,0.052,,380,Blue Blood Brewing Company,Lincoln,NE
+300,1025,N Street Drive-In 50th Anniversary IPA,American Double / Imperial IPA,12,,,380,Blue Blood Brewing Company,Lincoln,NE

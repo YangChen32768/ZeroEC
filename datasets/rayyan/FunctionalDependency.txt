@@ -1,0 +1,4 @@
+{
+  "journal_title": ["jounral_abbreviation","journal_issn"],
+  "journal_issn": ["jounral_abbreviation"]
+}

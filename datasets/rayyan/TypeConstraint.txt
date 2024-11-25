@@ -1,0 +1,12 @@
+{
+  "author_list": "not null",
+  "article_pagination": "not null",
+  "article_pagination": "not null",
+  "jounral_abbreviation": "not null",
+  "article_title": "not null",
+  "article_language": "not null",
+  "journal_title": "not null",
+  "journal_issn": "not null",
+  "article_jissue": "not null",
+  "article_jcreated_at": "date"
+}

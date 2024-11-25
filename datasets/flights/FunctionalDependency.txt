@@ -1,0 +1,6 @@
+{
+  "act_dep_time": ["flight"],
+  "act_arr_time": ["flight"],
+  "sched_dep_time": ["flight"],
+  "sched_arr_time": ["flight"]
+}

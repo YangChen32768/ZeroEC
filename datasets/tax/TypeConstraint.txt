@@ -1,0 +1,10 @@
+{
+  "gender": "predefined list",
+  "area_code": "3 digits",
+  "phone": "7 formatted digits",
+  "state": "2 letters",
+  "zip": "non-zero-leading digits",
+  "marital_status": "predefined list",
+  "has_child": "predifined list",
+  "salary": "digits"
+}

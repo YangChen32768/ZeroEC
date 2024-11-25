@@ -1,0 +1,30 @@
+[
+	{
+		"Erroneous Value": {"article_jissue": "null"},
+		"correction":  {"article_jissue": "-1"},
+	},
+	{
+		"Erroneous Value": {"article_jvolumn": "null"},
+		"correction": {"article_jvolumn": "-1"}
+	},
+	{
+		"Erroneous Value": {"article_jcreated_at": "3/2/05"}
+		"user-provided_reason_for_correction": "The date is written is a wrong order.To fix it, like "3/2/05", just follow these steps:1.Move the first number 3 to the end.So it currently becomes 2/05/3. 2.Make sure that the first two numbers cannot be prefixed with 0, if so, remove them.So it now becomes 2/5/3. 3.Make sure that the third number must be two digits. If there is only one digit, add a prefix of 0.So it now becomes 2/5/03,and this is the final result.",
+		"correction": {"article_jcreated_at": "2/5/03"}
+	},
+	{
+		"Erroneous Value": {"article_jcreated_at": "8/7/06"}
+		"user-provided_reason_for_correction": "The date is written is a wrong order.To fix it, like "8/7/06", just follow these steps:1.Move the first number 8 to the end.So it currently becomes 7/06/8. 2.Make sure that the first two numbers cannot be prefixed with 0, if so, remove them.So it now becomes 7/6/8. 3.Make sure that the third number must be two digits. If there is only one digit, add a prefix of 0.So it now becomes 7/6/08,and this is the final result.",
+		"correction": {"article_jcreated_at": "7/6/08"}
+	},
+	{
+		"Erroneous Value": {"article_jcreated_at": "11/2/12"}
+		"user-provided_reason_for_correction": "The date is written is a wrong order.To fix it, like "11/2/12", just follow these steps:1.Move the first number 11 to the end.So it currently becomes 2/12/11. 2.Make sure that the first two numbers cannot be prefixed with 0, if so, remove them.Since neither of the first two digits of 2/12/11 are prefixed with 0, it remains unchanged at this step. 3.Make sure that the third number must be two digits. If there is only one digit, add a prefix of 0.Since the 3rd number of 2/12/11 is already a double digit, it remains the same at this step.So the final result is 2/12/11",
+		"correction":{"article_jcreated_at": "2/12/11"}
+	},
+	{
+		"Erroneous Value": {"article_jcreated_at": "6/7/08"}
+		"user-provided_reason_for_correction": "The date is written is a wrong order.To fix it, like "6/7/08", just follow these steps:1.Move the first number 6 to the end.So it currently becomes 7/08/6. 2.Make sure that the first two numbers cannot be prefixed with 0, if so, remove them.So it now becomes 7/8/6. 3.Make sure that the third number must be two digits. If there is only one digit, add a prefix of 0.So it becomes 7/8/06 at this step,and this is the final result",
+		"correction":{"article_jcreated_at": "7/8/06"}
+	},
+]
