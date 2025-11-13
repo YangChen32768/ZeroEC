@@ -15,7 +15,7 @@ To set up the environment and get started with ZeroEC, follow these steps:
    conda install pytorch==1.13.1 cudatoolkit=11.7 -c pytorch -c conda-forge
 
    # Clone the ZeroEC repository
-   git clone https://github.com/YangChen32768/ZeroC.git
+   git clone https://github.com/YangChen32768/ZeroEC.git
    cd ZeroC
 
    # Install required dependencies
